@@ -2,5 +2,4 @@ Description:
 The 5th iteration of the phone-attachment version of Caddisfly. 
 
 Changes:
-- Added a 'mesh' to improve image quality (essentially shields the reagent capsule from the camera)
-- added a lip to the cap of the test chamber to prevent the overflow water and the sample from mixing
+- Increased diameter of the 'mesh': decreasing the volume of the overflow chamber, also preventing the overflow water from affecting the test result
