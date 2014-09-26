@@ -3,7 +3,7 @@ hardware-files
 
 3d files, CAD files, other iterations of the Caddisfly Hardware for the Fluoride test.
 
-**Usually includes**:
+**Hardware (usually) includes**:
 
 -One test chamber (a cartridge)
 
