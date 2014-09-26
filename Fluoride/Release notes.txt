@@ -1,5 +1,6 @@
 Description:
-The second iteration of the phone-attachment version of Caddisfly. 
+The third iteration of the phone-attachment version of Caddisfly. 
 
 Changes:
-- Added a lip to the sleeve so the cartridge stays in place, giving a consistent colour reading
+- Removed the metal ring as it was reacting with the reagent
+- Widened the cartridge to improve image quality + colour saturation
