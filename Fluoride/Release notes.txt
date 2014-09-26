@@ -1,5 +1,6 @@
 Description:
-The 5th iteration of the phone-attachment version of Caddisfly. 
+The 7th iteration of the phone-attachment version of Caddisfly. 
 
 Changes:
-- Increased diameter of the 'mesh': decreasing the volume of the overflow chamber, also preventing the overflow water from affecting the test result
+- Increased length of the test chamber, for better colour variation
+- added a step to hold the syringe, to fix previous issues of the syringe and mesh breaking as the test chamber lid was closed
