@@ -1,8 +1,6 @@
 Description:
-The fourth iteration of the phone-attachment version of Caddisfly. 
+The 5th iteration of the phone-attachment version of Caddisfly. 
 
 Changes:
-- Got rid of the sleeve and ungainly pvc pipe phone attachment which prevented carrying Caddisfly in your pocket
-- Screw-mechanism for attaching test chamber to phone
-- syringe-based reagent dispensing
-- Overflow chamber for excess water+displaced sample by reagent
+- Added a 'mesh' to improve image quality (essentially shields the reagent capsule from the camera)
+- added a lip to the cap of the test chamber to prevent the overflow water and the sample from mixing
