@@ -1,0 +1,4 @@
+Description:
+The first iteration of the phone-attachment version of Caddisfly. The fluoride test is performed by filling a sample of water in the test chamber, fitting a reagent 
+filled capsule into the lid, and shutting the cartridge to allow the liquids to mix. The cartridge is then placed in the rubber sleeve, and slipped into the phone case 
+attachment.
