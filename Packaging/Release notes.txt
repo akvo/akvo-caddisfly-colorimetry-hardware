@@ -1,0 +1,11 @@
+Description:
+First Iteration of the Packaging for Caddisfly. The kit box is designed to hold:
+
+50 Reagent-filled Capsules
+1 Phone with its Backcase attachment
+1 Testing Chamber
+2 Dilution Syringes
+1 Mixing chamber for dilution
+1 pack of 50 pH Strips
+
+The Kit is designed to be lasercut from Acrylic and PU foam.
