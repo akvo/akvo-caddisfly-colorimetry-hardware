@@ -1,5 +1,5 @@
 Description:
-The 7th iteration of the phone-attachment version of Caddisfly. 
+The 7th iteration of the test chamber. 
 
 Changes:
 - Increased length of the test chamber, for better colour variation

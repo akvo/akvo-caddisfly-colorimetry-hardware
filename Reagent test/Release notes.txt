@@ -1,0 +1,6 @@
+Description:
+The 7th iteration of the phone-attachment version of Caddisfly. 
+
+Changes:
+- Increased length of the test chamber, for better colour variation
+- added a flange to hold the capsule to fix previous issues of the syringe and mesh breaking once the test chamber lid was closed
