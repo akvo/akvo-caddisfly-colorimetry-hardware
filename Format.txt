@@ -1,4 +1,0 @@
-PDF
--front,side,cross section views of each component
--assembled view of each module
--assembled view of the entire product
