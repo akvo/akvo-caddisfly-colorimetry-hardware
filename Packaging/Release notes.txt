@@ -1,5 +1,5 @@
 Description:
-First Iteration of the Packaging for Caddisfly. The kit box is designed to hold:
+V0.1.1 of the packaging for Caddisfly. The kit box is designed to hold:
 
 50 Reagent-filled Capsules
 1 Phone with its Backcase attachment
@@ -9,3 +9,7 @@ First Iteration of the Packaging for Caddisfly. The kit box is designed to hold:
 1 pack of 50 pH Strips
 
 The Kit is designed to be lasercut from Acrylic and PU foam.
+
+Issues Addressed: 
+- Fragile locking mechanism of the previous kit - replaced with a sliding mechanism, and reinforced from the sides.
+- Neater layout of components
