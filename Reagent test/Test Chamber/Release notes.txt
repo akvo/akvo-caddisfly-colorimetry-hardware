@@ -1,6 +1,8 @@
 Description:
-The 7th iteration of the test chamber. 
+V0.1.1 of the test chamber. 
 
 Changes:
-- Increased length of the test chamber, for better colour variation
-- added a step to hold the syringe, to fix previous issues of the syringe and mesh breaking as the test chamber lid was closed
+- Increased the diameter to fix alignment issues
+- Changed dimesnion of the lower step to prevent material wastage during turning process
+- Added a step at the top of the main body
+- Altered design of the capsule holder to sit on upper step, to prevent breakage of the testing chamber due to stresses from screwing the lid 
