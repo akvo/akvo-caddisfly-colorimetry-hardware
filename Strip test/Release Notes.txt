@@ -1,2 +1,3 @@
-A testing "container" meant to hold Hach test strips for iron, nitrate and chlorine so they can be calibrated and tested with the existing Caddisfly application
-THis version has not been adequately tested yet.
+A testing "container" meant to hold Hach test strips for iron, nitrate and chlorine so they can be 
+calibrated and tested with the existing Caddisfly application
+This version has not been adequately tested yet.
