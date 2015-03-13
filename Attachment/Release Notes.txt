@@ -1,1 +1,2 @@
-In the current iteration, the phone attachment for the test chamber consists of a small PVC disc (with internal threading to match that of the cartridge) aligned andglued to the back of the SGP case of the appropriate phone model.
+As earlier, the attachment needs to be glued to the back of the appropriate phone model SGP case.
+The attachment differs in that it no longer has screw threading, but a "twist and lock" mechanism

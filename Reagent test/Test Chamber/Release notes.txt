@@ -1,8 +1,6 @@
 Description:
-V0.1.1 of the test chamber. 
+V0.1.1.1 of the test chamber. 
 
 Changes:
 - Increased the diameter to fix alignment issues
-- Changed dimesnion of the lower step to prevent material wastage during turning process
-- Added a step at the top of the main body
-- Altered design of the capsule holder to sit on upper step, to prevent breakage of the testing chamber due to stresses from screwing the lid 
+- Changed phone attachment mechanism from a screw thread to a twist and lock
