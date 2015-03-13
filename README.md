@@ -1,6 +1,8 @@
 hardware-files
 ==============
 
+This Branch is for the test of the "Twist and Lock" mechanism of attaching the test chamber to the phone.
+
 3d files, and information on how to manufacture and assemble the Caddisfly water testing kit.
 
 **Each component folder includes**:
