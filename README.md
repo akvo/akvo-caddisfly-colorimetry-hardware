@@ -9,7 +9,8 @@ hardware-files
 - A bill of materials (BOM) describing the materials used to fabricate the part
 - A pdf describing the components, and assembly
 - A RAW file (either in STEP, CAD, or PDF format, depending on the method of fabrication)
-- 
+
+
 License
 
 Copyright (C) Stichting Akvo (Akvo Foundation)
