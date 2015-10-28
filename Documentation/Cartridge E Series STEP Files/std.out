@@ -1,0 +1,271 @@
+Pro/ENGINEER is running with Unicode string encoding.
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+check_exec_file_accessible_():  C:\Program Files\proeWildfire 5.0\\x86e_win64\obj\SWConvert.exe accessible (INFO MESSAGE)
+browser_get_type_sysdep:  type = 1 (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 40 commands (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+reset_text_params:  failed to get font codeset (ORDER_DEBUG)
+dll_get_func_ptr_msgq:  OS error 127 while getting ptr to 'gGetProtocolVersion' in 'gPlug' (ORDER_DEBUG)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+pglSetStatus: PglWindowEndNoGraphics: Not in nographics mode.
+pro_locate_colormap ()
+located color definition C:\Program Files\proeWildfire 5.0\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition C:\Program Files\proeWildfire 5.0\graphic-library\appearances\global.dmt
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+pfa_set_content_hints:  leaving e6.stp alone (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+DlgImptNewModel:  using values from profile (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+pfa_set_content_hints:  leaving Default-Enhanced-realism.scn alone (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 2
+rls_intf_entry_ptr_data():  unreleased memory, ent type 61 (INFO MESSAGE)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+W-promenu_on_button can not find PART-Move Dim
+W-promenu_on_button can not find PART-Export
+W-promenu_on_button can not find PART-List Declare
+W-promenu_on_button can not find PART-Shrink Info
+W-cannot find menu:PART and/or item:Surface to make accessible
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+remove_view_component:  undefined application (ORDER_DEBUG)
+store_pixel_outline:  Pixel outline should be round values! (ORDER_DEBUG)
+restore_drawing:  retrieving drawing a3_drawing.DRW ... (INFO MESSAGE)
+PglPersistmgrLoadFonts:  Reading codeset 0, name ascii.fnt (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+PglPersistmgrLoadFonts:  Reading codeset 2, name latin_1.fnt (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+PglPersistmgrLoadFonts:  Reading codeset 4, name special.fnt (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+PglPersistmgrLoadFonts:  PTC font in session; not loaded (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+ dbkey_get : invalid call, key = 0
+eliminate_extra_instr:  NULL view instr list (INFO MESSAGE)
+AsmConfigurator::get_top_conf_solid:  Unable configurate drawing DRW0001 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_to_db_type_w_msg:  Type -1 is not found. (ORDER_DEBUG)
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+ tri_trapezoids: incorrect surface id 738.
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+W-promenu_on_button can not find DRAWING-Export
+W-promenu_on_button can not find DRAWING-Dwg Models
+W-promenu_on_button can not find DRAWING-Info
+dtl_context_set_current_context:  setting to page_Layout (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+dtl_context_set_current_context:  setting to page_Layout (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+remove_view_component:  undefined application (ORDER_DEBUG)
+redraw_dwgview_in_3d:  invalidating DL_APPL_VIEWPORT_LIST
+ (ORDER_DEBUG)
+is_part_solid_geom_blanked:  pass NULL view at drawing mode with DWG_VER_1146488 (ORDER_DEBUG)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+is_next_command:  Checking for "", but command is "#" (INFO MESSAGE)
+is_next_command:  Checking for "", but command is "#" (INFO MESSAGE)
+dtl_to_db_type_w_msg:  Type 140 is not found. (ORDER_DEBUG)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+ResizeControlWdg::initContainerChildMaxWidth:  The max size in 'main_dlg_w2' of 'dtEdit' has been changed from 197 to 201 (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+remove_view_component:  undefined application (ORDER_DEBUG)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\proeWildfire 5.0\\x86e_win64\obj\progeo_to_cat4 not accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\proeWildfire 5.0\\x86e_win64\obj\progeo_to_cat4 not accessible (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+update_dwg_view_model:  View does not belong to drawing (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ResizeControlWdg::initContainerChildMaxWidth:  The max size in 'main_dlg_w2' of 'adb_menubar_lay' has been changed from 427 to 0 (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+W-promenu_on_button can not find PART-Move Dim
+W-promenu_on_button can not find PART-Info
+W-promenu_on_button can not find PART-Export
+W-promenu_on_button can not find PART-List Declare
+W-promenu_on_button can not find PART-Shrink Info
+W-cannot find menu:PART and/or item:Surface to make accessible
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch

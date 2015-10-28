@@ -1,0 +1,108 @@
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot modify the reverse horizontal placement flag
+%UIMSG-APPLICATION-ERROR, Failed to modify global attributes
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../libs/prowtlibs/text/compiled_resource/prowtlibs_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../proe/uitools/text/compiled_resource/uitools_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../text/compiled_resource/.._resources.dll
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_inquire
+%UIMSG-APPLICATION-ERROR, Component 'TreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'MainWInSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'sash_left@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Failed to do operation 33 to component: PHTLeft.AssyTree, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find device: searchdlg, to destroy
+%UIMSG-APPLICATION-ERROR, Could not find device: searchdlg, to exit
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, UI_menu_del_item_Op - Could not find named component
+%UIMSG-APPLICATION-ERROR, Failed to do operation 21 to component: PopupMenu, in device: rmb_popup
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, UI_menu_del_item_Op - Could not find named component
+%UIMSG-APPLICATION-ERROR, Failed to do operation 21 to component: PopupMenu, in device: rmb_popup
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: drawing_view, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: drawing_view, for modify
+%UIMSG-APPLICATION-ERROR, Table DeleteRows: No rows specified
+%UIMSG-APPLICATION-ERROR, Failed to do operation 131 to component: xsection_table, in device: drawing_view
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.page_0 (0,0) (58x24) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.page_0 (0,0) (58x24) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.page_0 (0,0) (58x24) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.page_0 (0,0) (58x24) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.page_0 (0,0) (58x24) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Parent switcher_lay_buttons_lay_ph.tab_container resizing child switcher_lay_buttons_lay_ph.pshCloseButton (34,3) (17x17) to be partially viewable in (0,0) (50x24)
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.SecondaryTreeTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.SecondaryTreeTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: DrwAssyTree, in device: main_dlg_w2, to do operation
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Dialog 'main_dlg_w2@main_dlg_w2' is not in an event loop
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
