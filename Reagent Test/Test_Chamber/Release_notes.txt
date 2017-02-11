@@ -1,0 +1,7 @@
+Description:
+V0.1.5 of the test chamber. 
+
+Changes:
+- Increased the diameter to fix alignment issues
+- Altered design of some components to make assembly easier
+- Added a lip to the lid to make dilution using the cartridge more accurate
