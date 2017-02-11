@@ -1,3 +1,0 @@
-StriptestStep: SLA
-Lens: Frosted/lasercut acrylic (2mm)
-Lid: opaque black acrylic sheet (1mm)

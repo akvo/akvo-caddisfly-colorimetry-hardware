@@ -1,9 +1,0 @@
-Description:
-
-This part is designed to hold and dispense 0.4ml of the reagent (xylenol orange) required for the fluoride test. 
-
-It is manufactured by injection moulding.
-
-Issues addressed:
-- Added a flange to prevent the capsule from being pushed into the cartridge and breaking the mesh.
-- Added a silicon plug to prevent leakage, and removed the necessity of applying O-rings to each capsule
