@@ -1,4 +1,4 @@
-#################################################################################################
+##########################################################################
 # This programme takes a set of files exported by xrite I photo pro software, and averages
 # the data points
 #
@@ -9,7 +9,7 @@
 # author: M.T. Westra
 # date: 3-8-2016
 # version: 1.0
-#################################################################################################
+##########################################################################
 import os
 import sys
 import datetime
@@ -19,8 +19,11 @@ INPUTDIR = CURRPATH + '/D65/'
 OUTPUTDIR = CURRPATH + '/output/'
 
 # function returns true if value 1 deviates from value 2 by a certain fraction.
-# Also returns false if the value of value 1 and value 2 are both smaller than 1
-def deviates(value1,value2,fraction):
+# Also returns false if the value of value 1 and value 2 are both smaller
+# than 1
+
+
+def deviates(value1, value2, fraction):
     fracmore = 1 + fraction
     fracless = 1 - fraction
     if abs(value1) > abs(fracmore * value2) or abs(value1) < abs(fracless * value2):
@@ -31,11 +34,12 @@ def deviates(value1,value2,fraction):
     else:
         return False
 
-def findIndex(lines,strg,exclude=None):
+
+def findIndex(lines, strg, exclude=None):
     num = 0
     for line in lines:
         if strg in line:
-            if exclude == None:
+            if exclude is None:
                 return num
             else:
                 if not exclude in line:
@@ -45,6 +49,10 @@ def findIndex(lines,strg,exclude=None):
         else:
             num = num + 1
     return -1
+
+
+if not os.path.exists(OUTPUTDIR):
+    os.makedirs(OUTPUTDIR)
 
 # empty output directory first
 for the_file in os.listdir(OUTPUTDIR):
@@ -69,7 +77,7 @@ for inputFile in os.listdir(INPUTDIR):
     try:
         f = open(INPUTDIR + inputFile, 'r')
     except IOError:
-        print("can't open file " + fileName)
+        print "can't open file " + fileName
         sys.exit(0)
 
     files.append(f.readlines())
@@ -84,31 +92,31 @@ for fc in files:
     index += 1
     # check if file starts with "CGATS.17"
     if "CGATS.17" not in fc[0]:
-        print("Expected file " + str(index) + " to start with CGATS.17. Halting execution")
+        print "Expected file " + str(index) + " to start with CGATS.17. Halting execution"
         sys.exit(0)
 
     # check if we used measurement condition M1
     if "MeasurementCondition=M1" not in fc[5]:
-        print("Expected file " + str(index) + " to have Measurement condition M1. Halting execution")
+        print "Expected file " + str(index) + " to have Measurement condition M1. Halting execution"
         sys.exit(0)
 
     # check if we have D65 illumnation
     if "ILLUMINATION_NAME\t\"D65\"" not in fc[6]:
-        print("Expected file " + str(index) + " to have Illumination name D65. Halting execution")
+        print "Expected file " + str(index) + " to have Illumination name D65. Halting execution"
         sys.exit(0)
     # line 20 contains the NUMBER_OF_SETS. Store these.
     numPatches.append(fc[20].split()[1])
 
 # check if all number of patches are the same
 numPatch = int(numPatches[0])
-for i in range(1,len(numPatches)):
+for i in range(1, len(numPatches)):
     if numPatch != int(numPatches[i]):
         print "Files have different number of patches, so cannot compute average. Halting execution"
         sys.exit(0)
 
 
 # find the location of the Lab data
-dataFormatIndex = findIndex(files[0],"BEGIN_DATA_FORMAT") + 1
+dataFormatIndex = findIndex(files[0], "BEGIN_DATA_FORMAT") + 1
 dataFormat = files[0][dataFormatIndex].split()
 
 try:
@@ -119,41 +127,45 @@ except ValueError:
 
 # Find beginning and end of data
 try:
-    dataStartIndex = findIndex(files[0],"BEGIN_DATA",exclude="BEGIN_DATA_FORMAT")
-    dataEndIndex = findIndex(files[0],"END_DATA",exclude="END_DATA_FORMAT")
-    if (numPatch != (dataEndIndex - dataStartIndex - 1)):
+    dataStartIndex = findIndex(
+        files[0], "BEGIN_DATA", exclude="BEGIN_DATA_FORMAT")
+    dataEndIndex = findIndex(files[0], "END_DATA", exclude="END_DATA_FORMAT")
+    if numPatch != (dataEndIndex - dataStartIndex - 1):
         print "number of data points not corect"
         sys.exit(0)
 except ValueError:
     print "Data not found. Halting"
     sys.exit(0)
 
-data=[]
+data = []
 num = 0
-# put first file in data structure. We apply the averaging factor straight away.
+# put first file in data structure. We apply the averaging factor straight
+# away.
 for i in range(dataStartIndex + 1, dataEndIndex):
     row = files[0][i].split()
-    data.append([row[0],row[1],float(row[LAB_L_index]) / numFiles,float(row[LAB_L_index + 1]) / numFiles,float(row[LAB_L_index + 2]) / numFiles])
+    data.append([row[0], row[1], float(row[LAB_L_index]) / numFiles,
+                 float(row[LAB_L_index + 1]) / numFiles, float(row[LAB_L_index + 2]) / numFiles])
 
 # add rest of files
-for i in range(1,numFiles):
-    for ii in range(0,numPatch):
+for i in range(1, numFiles):
+    for ii in range(0, numPatch):
         row = files[i][dataStartIndex + 1 + ii].split()
         data[ii][2] += float(row[LAB_L_index]) / numFiles
         data[ii][3] += float(row[LAB_L_index + 1]) / numFiles
         data[ii][4] += float(row[LAB_L_index + 2]) / numFiles
 
-# check if we have any outliers, defined as values that differ more than 5% from the average.
-for i in range(0,numFiles):
-    for ii in range(0,numPatch):
+# check if we have any outliers, defined as values that differ more than
+# 5% from the average.
+for i in range(0, numFiles):
+    for ii in range(0, numPatch):
         row = files[i][dataStartIndex + 1 + ii].split()
-        if deviates(float(row[LAB_L_index]),data[ii][2],0.05) or deviates(float(row[LAB_L_index + 1]),data[ii][3],0.05) or deviates(float(row[LAB_L_index + 2]),data[ii][4],0.05):
+        if deviates(float(row[LAB_L_index]), data[ii][2], 0.05) or deviates(float(row[LAB_L_index + 1]), data[ii][3], 0.05) or deviates(float(row[LAB_L_index + 2]), data[ii][4], 0.05):
             print "One of the values deviates more than 5% from the average. Please check."
             print "Values for which the absolute difference is less than 1 don't count."
-            print "file number: ",i, ", row number: ", ii
-            print "Average data: ",data[ii][2], data[ii][3], data[ii][4]
-            print "Data in file: ",float(row[LAB_L_index]), float(row[LAB_L_index + 1]), float(row[LAB_L_index + 2])
-            print "Percentage difference:", "%.2f" % (100 - 100 * data[ii][2]/float(row[LAB_L_index])), "%.2f" % (100 - 100 * data[ii][3]/float(row[LAB_L_index + 1])), "%.2f" % (100 - 100 *  data[ii][4]/float(row[LAB_L_index + 2]))
+            print "file number: ", i, ", row number: ", ii
+            print "Average data: ", data[ii][2], data[ii][3], data[ii][4]
+            print "Data in file: ", float(row[LAB_L_index]), float(row[LAB_L_index + 1]), float(row[LAB_L_index + 2])
+            print "Percentage difference:", "%.2f" % (100 - 100 * data[ii][2] / float(row[LAB_L_index])), "%.2f" % (100 - 100 * data[ii][3] / float(row[LAB_L_index + 1])), "%.2f" % (100 - 100 * data[ii][4] / float(row[LAB_L_index + 2]))
 
 
 # overwrite in memory the first file
@@ -162,10 +174,13 @@ files[0][17] = "SAMPLE_ID\tSAMPLE_NAME\tLAB_L\tLAB_A\tLAB_B\n"
 
 for i in range(dataStartIndex + 1, dataEndIndex):
     dInd = i - dataStartIndex - 1
-    #files[0][i] = str(data[dInd][0]) + "\t" + str(data[dInd][1]) + "\t" + "%.2f" % data[dInd][2] + "\t" + "%.2f" % data[dInd][3] + "\t" + "%.2f" % data[dInd][4] + "\n"
-    files[0][i] = "%.2f" % data[dInd][2] + "," + "%.2f" % data[dInd][3] + "," + "%.2f" % data[dInd][4] + "\n"
+    #files[0][i] = str(data[dInd][0]) + "\t" + str(data[dInd][1]) + "\t" + \
+    # "%.2f" % data[dInd][2] + "\t" + "%.2f" % data[dInd][3] + "\t" + "%.2f" % data[dInd][4] + "\n"
+    files[0][i] = "%.2f" % data[dInd][2] + "," + \
+        "%.2f" % data[dInd][3] + "," + "%.2f" % data[dInd][4] + "\n"
 
-files[0][19] = "AKVO - AVERAGED FILES\t" + datetime.datetime.now().strftime("%I:%M%p on %B %d, %Y") + "\n"
+files[0][19] = "AKVO - AVERAGED FILES\t" + \
+    datetime.datetime.now().strftime("%I:%M%p on %B %d, %Y") + "\n"
 
 # create result file
 fNew = "average.txt"
