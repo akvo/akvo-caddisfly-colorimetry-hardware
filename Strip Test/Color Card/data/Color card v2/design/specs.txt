@@ -7,3 +7,4 @@
 * Sun-resistant, so UV filter
 * Scratch resistant
 * Matte surface finish
+* printed dimensions need to exactly correspond to PDF.
