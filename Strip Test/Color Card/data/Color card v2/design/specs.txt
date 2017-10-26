@@ -1,0 +1,9 @@
+## Specs of the Colour Card
+
+* PVC, thickness 0.7mm or more
+* PVC should not contain artificial whiteners
+* 4 colour print, single sided
+* High degree of colour consistency accross colour cards in a single batch, <2 E95 difference
+* Sun-resistant, so UV filter
+* Scratch resistant
+* Matte surface finish
